@@ -19,8 +19,10 @@ Se algum desses arquivos estiver presente no diretório, o navegador carregará 
     a. ```<head> </head>``` <br>
     b. ```<body> </body>```
  1. ```</html>```
+ 
+<br>
 
-> ➡️ - Sabendo a estrutura básica do código HTML, temos que aprender o que compoe essas estrutura, vamos falar agora sobre **Elementos**!
+ ➡️ - Sabendo a estrutura básica do código HTML, temos que aprender o que compoe essas estrutura, vamos falar agora sobre **Elementos**!
 
 ### 3. Elementos
 1. TAG's 
