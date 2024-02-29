@@ -68,6 +68,8 @@ Se algum desses arquivos estiver presente no diretório, o navegador carregará 
 
 > 📖 -  Magic Front End - Julio Code: https://ojuliocode.com.br/
 
+> 📖 - Apostila Alura: https://www.alura.com.br/apostila-html-css-javascript
+
 ## Encerramento
 Então é isso meus Dev's, ao longo dos anos vou ir melhorando este arquivo.
 Há dicas valiosas aqui, espero ajudar você e até a próxima!
